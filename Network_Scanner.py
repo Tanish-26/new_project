@@ -31,5 +31,4 @@ options = get_agruments
 scan_result = scan(IP)
 print_result(scan_result)		
 
-https://portswigger.net/users/retrieve-password-t7eee598d455d71285cfa0ccc501873ac490a6c80096ee83c36570fe98211c6cf?tid=Et4Q1BIKdJk4P6Iy6VE4oNL4Y5svB2GE7htdj36SBt_8cV62F39ErW0-n7mwkdoK
-			
+
