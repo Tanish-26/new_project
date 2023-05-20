@@ -32,3 +32,4 @@ scan_result = scan(IP)
 print_result(scan_result)		
 
 
+https://portswigger.net/users/retrieve-password-tf1c10ff8f39e0dae900426d6a01410ce24fc0137673c3c8b6c24bd945d00481d?tid=49ry4f04xrHRl7XjHcotrGYBrCKnMZl8di-9yJM5dZ4aUDCcunwvaDuSBfkloLtF
